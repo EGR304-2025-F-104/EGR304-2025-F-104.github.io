@@ -1,5 +1,5 @@
-site_name: EGR304 Team Report Template
-site_url: https://embedded-systems-design.github.io/EGR304TeamTemplate
+site_name: EGR304-2025-F-104 Team Report
+site_url: https://egr304-2025-f-104.github.io/
 repo_url: https://github.com/embedded-systems-design/EGR304TeamTemplate
 edit_uri: edit/main/docs/
 theme:
@@ -59,7 +59,7 @@ extra_javascript:
 not_in_nav: |
   static
   
-copyright: "Copyright &copy; 2025 team-name-here"
+copyright: "Copyright &copy; 2025 EGR304-2025-F-104"
 
 extra:
   generator: false
