@@ -13,10 +13,11 @@ _Italic Text_
 * Allow the user to select a desired temperature from within the comfort (and warmth) of their own home
 * Have a function that automatically turns the heating pad on and off based on the environmental temperature to melt ice without draining electricity continuously
 * Utilize Audio/Visual communication to assist the user in interacting with the product
+* Melt ice effectively
 
 ## Images
 
-![Team 104 Block Diagram](https://github.com/EGR304-2025-F-104/EGR304-2025-F-104.github.io/blob/gh-pages/image/Screenshot%202025-10-03%20171652.jpg){style width:"350" height:"300;"}
+![Team 104 Block Diagram](/image/Screenshot%202025-10-03%20171652.jpg){:style="width:350px; height:300px;"}
 
 **Figure 1:** Team 104 Block Diagram
 <!--![dead bug circuit](Image01.jpg){style width:"350" height:"300;"}
@@ -34,15 +35,18 @@ _Italic Text_
 -->
 
 
-![Team 104 Block Diagram](/image/Screenshot%202025-10-03%20171652.jpg){:style="width:350px; height:300px;"}
+
 
 
 ## Conclusions and Future Work
 
 ## External Links
 
+(will link datasheets etc when we know what parts we are using)
 <!--[example link to idealab](https://idealab.asu.edu)-->
 
 ## References
+
+(we didnt really do any research for this)
 
 
