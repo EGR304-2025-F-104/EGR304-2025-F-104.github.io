@@ -25,12 +25,17 @@ _Italic Text_
 
 
 
+
 ## Results
 
 1. Numbered Point 1
 1. Numbered Point 2
 1. Numbered Point 3
 -->
+
+<img src="https://github.com/EGR304-2025-F-104/EGR304-2025-F-104.github.io/blob/gh-pages/image/Screenshot%202025-10-03%20171652.jpg" alt="My Photo">
+
+
 ## Conclusions and Future Work
 
 ## External Links
