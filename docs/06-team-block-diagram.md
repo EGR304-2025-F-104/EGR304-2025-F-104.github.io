@@ -34,6 +34,7 @@ _Italic Text_
 -->
 
 
+![Team 104 Block Diagram](/image/Screenshot%202025-10-03%20171652.jpg){:style="width:350px; height:300px;"}
 
 
 ## Conclusions and Future Work
