@@ -16,7 +16,7 @@ _Italic Text_
 
 ## Images
 
-![Team 104 Block Diagram](https://github.com/EGR304-2025-F-104/EGR304-2025-F-104.github.io/blob/gh-pages/image/Screenshot%202025-10-03%20171652.jpg)
+![Team 104 Block Diagram](https://github.com/EGR304-2025-F-104/EGR304-2025-F-104.github.io/blob/gh-pages/image/Screenshot%202025-10-03%20171652.jpg){style width:"350" height:"300;"}
 
 **Figure 1:** Team 104 Block Diagram
 <!--![dead bug circuit](Image01.jpg){style width:"350" height:"300;"}
@@ -33,7 +33,7 @@ _Italic Text_
 1. Numbered Point 3
 -->
 
-<img src="https://github.com/EGR304-2025-F-104/EGR304-2025-F-104.github.io/blob/gh-pages/image/Screenshot%202025-10-03%20171652.jpg" alt="My Photo">
+
 
 
 ## Conclusions and Future Work
