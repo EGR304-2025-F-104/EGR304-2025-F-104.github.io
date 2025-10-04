@@ -4,9 +4,9 @@ title: Team Block Diagram
 
 ## Introduction
 This is the working Block Diagram for EGR304 Team 104, and is representative of the components required to facilitate the automatic temperature regulation of a thermal pad dependent on either user input or the temperature of the surrounding environment. 
-**Bold Text**
+<!--**Bold Text**
 _Italic Text_
-**_Bold and Italic Text_**
+**_Bold and Italic Text_**-->
 
 ## Design Objectives
 
@@ -16,10 +16,11 @@ _Italic Text_
 
 ## Images
 
-![Team 104 Block Diagram](https://idealab.asu.edu/assets/images/research/jumper1.png)
+![Team 104 Block Diagram](https://github.com/EGR304-2025-F-104/EGR304-2025-F-104.github.io/blob/gh-pages/image/Screenshot%202025-10-03%20171652.jpg)
 
-![dead bug circuit](Image01.jpg){style width:"350" height:"300;"}
-**Figure 2:** Early PCB working design
+**Figure 1:** Team 104 Block Diagram
+<!--![dead bug circuit](Image01.jpg){style width:"350" height:"300;"}
+**Figure 2:** Early PCB working design 
 
 
 
@@ -29,12 +30,12 @@ _Italic Text_
 1. Numbered Point 1
 1. Numbered Point 2
 1. Numbered Point 3
-
+-->
 ## Conclusions and Future Work
 
 ## External Links
 
-[example link to idealab](https://idealab.asu.edu)
+<!--[example link to idealab](https://idealab.asu.edu)-->
 
 ## References
 
